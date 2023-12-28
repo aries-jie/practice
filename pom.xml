@@ -33,6 +33,7 @@
         <module>rocketmq</module>
         <module>sharding</module>
         <module>spi-provider</module>
+        <module>spring</module>
         <module>zookeeper</module>
     </modules>
 
