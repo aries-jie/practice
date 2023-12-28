@@ -1,0 +1,12 @@
+@startuml
+'https://plantuml.com/sequence-diagram
+title 生成消息调用过程(待完善)
+
+autonumber
+
+Alice -> Bob: Authentication Request
+Bob --> Alice: Authentication Response
+
+Alice -> Bob: Another authentication Request
+Alice <-- Bob: another authentication Response
+@enduml
