@@ -8,12 +8,9 @@
         <version>1.0.0</version>
     </parent>
     <artifactId>netty</artifactId>
-    <version>1.0.0</version>
     <name>netty</name>
     <description>netty</description>
-    <properties>
-        <java.version>17</java.version>
-    </properties>
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>

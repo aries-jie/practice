@@ -10,9 +10,7 @@
     <artifactId>rocketmq</artifactId>
     <name>rocketmq</name>
     <description>rocketmq</description>
-    <properties>
-        <java.version>17</java.version>
-    </properties>
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>

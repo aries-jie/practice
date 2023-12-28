@@ -10,9 +10,7 @@
     <artifactId>sharding</artifactId>
     <name>sharding</name>
     <description>sharding</description>
-    <properties>
-        <java.version>17</java.version>
-    </properties>
+
     <dependencies>
         <!-- 实现对数据库连接池的自动化配置 -->
         <dependency>

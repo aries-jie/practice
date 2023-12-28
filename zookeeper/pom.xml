@@ -8,12 +8,9 @@
         <version>1.0.0</version>
     </parent>
     <artifactId>zookeeper</artifactId>
-    <version>1.0.0</version>
     <name>zookeeper</name>
     <description>zookeeper</description>
-    <properties>
-        <java.version>17</java.version>
-    </properties>
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
